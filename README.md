@@ -13,3 +13,4 @@ Mandelbrot Set Visualization is a Python notebook that allows users to explore t
 - Python 3.x
 - Required Python packages: `numpy`, `matplotlib`, `ipywidgets`
 
+![alt text](https://github.com/alexis-kouvakas/Mandelbrot-Set-Visualization/blob/main/mandelbrot_twilight_high_res.png?raw=true)
